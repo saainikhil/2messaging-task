@@ -44,4 +44,4 @@ messaging-system/
 ### Step 1: Clone the Repository
 ```bash
 git clone <your-repo-link>
-cd messaging-system
+cd 2messaging-system
